@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satrio Wiradika</h1>
-<h3 align="center">A passionate software developer from New Zealand</h3>
+<h3 align="center">An aspiring Data Analyst from New Zealand</h3>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Computer Science** and **Data Science**
 
 - 📫 How to reach me **wiradikas31@gmail.com**
 
