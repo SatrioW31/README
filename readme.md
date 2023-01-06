@@ -17,7 +17,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satriow31&show_icons=true&locale=en&layout=compact" alt="satriow31" />
 
 &nbsp;
-
+&nbsp;
 
 
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=satriow31&show_icons=true&locale=en" alt="satriow31" /></p>
